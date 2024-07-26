@@ -6,7 +6,7 @@ Languages: Html,Css, JavaScript, Php
 
 Frameworks/Libraries: React, node.js, three.js, Bootstrap, tawlind Css, jquerry
 
-Tools: Git, Docker
+Tools: Git, pwershell
 
 
 🌐 Connect with me:
