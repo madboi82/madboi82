@@ -4,7 +4,7 @@ Hi there! I'm Mahad, a passionate software developer with a keen interest in web
 
 Languages: Html,Css, JavaScript, Php
 
-Frameworks/Libraries: React, node.js, three.js, Bootstrap, tawlind Css, jquerry
+Frameworks/Libraries: React, node.js, three.js, Bootstrap, tawlind Css, jquery
 
 Tools: Git, pwershell
 
