@@ -15,8 +15,11 @@ Personal Website/Blog:
 🚀 Projects:
 
  Project 1: Dice game 
+ 
  Project 2: Flappy bird game
+ 
  Project 3: Flights search comparator 
+ 
  Project 4: Animes streaming website
 
  Let's build something amazing together!
